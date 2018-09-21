@@ -58,7 +58,6 @@
         <a class="button is-success is-fullwidth " onclick="check(userid,pwd)">Login</a>
       </div>
     </form>
-	<br>
   </section>
 
   <script>
